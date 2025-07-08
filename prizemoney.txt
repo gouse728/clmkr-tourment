@@ -1,0 +1,3 @@
+
+winners 50,000
+runners 30,000
